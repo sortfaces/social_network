@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+numpy
+scipy
+statsmodels
+tweepy
+twarc
+transformers
+torch
